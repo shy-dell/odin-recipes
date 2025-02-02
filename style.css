@@ -1,0 +1,21 @@
+* {
+    font-family: Georgia, 'Times New Roman', serif;
+}
+
+.title-page {
+    background-color: #8FBC8B;
+}
+
+.recipe-page {
+    background-color: plum;
+}
+
+.image-size {
+    height: auto;
+    width: 375px;
+}
+
+.subheader,
+.title {
+    color: whitesmoke;
+}
