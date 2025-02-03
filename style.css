@@ -1,5 +1,6 @@
 * {
     font-family: Georgia, 'Times New Roman', serif;
+    box-sizing: border-box;
 }
 
 .title-page {
@@ -16,6 +17,27 @@
 }
 
 .subheader,
-.title {
+.title,
+.subtitle {
     color: whitesmoke;
+}
+
+.subtitle{
+    text-align: center;
+}
+
+button {
+    display: block;
+    font-size: 20px;
+    background-color: honeydew;
+    color: black;
+    margin: 20px auto;
+    width: 500px;
+}
+
+div {
+    display: block;
+    background-color: wheat;
+    margin: 0 auto;
+    padding: 8px;
 }
